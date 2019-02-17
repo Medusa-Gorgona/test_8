@@ -1,0 +1,32 @@
+﻿<Window x:Class="Test_8_Calc.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Test_8_Calc"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="518.4" Width="838.4">
+    <Grid Margin="0,0,4,9.8">
+        <Grid x:Name="Kont" HorizontalAlignment="Left" Margin="0,10,0,27" Width="780">
+            <TextBox x:Name="Display" HorizontalAlignment="Left" Height="88" Margin="10,10,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="494" FontWeight="Bold" FontFamily="Times New Roman" FontSize="24" TextAlignment="Right"/>
+            <Button x:Name="Button1" Content="1" HorizontalAlignment="Left" Height="75" Margin="10,103,0,0" VerticalAlignment="Top" Width="78"/>
+            <Button x:Name="Button2" Content="2" HorizontalAlignment="Left" Height="75" Margin="93,103,0,0" VerticalAlignment="Top" Width="78"/>
+            <Button x:Name="Button3" Content="3" HorizontalAlignment="Left" Height="75" Margin="176,103,0,0" VerticalAlignment="Top" Width="78"/>
+            <Button x:Name="ButtonPlus" Content="+" HorizontalAlignment="Left" Height="75" Margin="294,103,0,0" VerticalAlignment="Top" Width="78"/>
+            <Button x:Name="ButtonMinus" Content="-" HorizontalAlignment="Left" Height="75" Margin="377,103,0,0" VerticalAlignment="Top" Width="78"/>
+            <Button x:Name="ButtonClear" Content="C" HorizontalAlignment="Left" Height="75" Margin="490,103,0,0" VerticalAlignment="Top" Width="78"/>
+            <Button x:Name="Button4" HorizontalAlignment="Left" Height="75" Margin="10,183,0,0" VerticalAlignment="Top" Width="78" Content="4"/>
+            <Button x:Name="Button5" Content="5" HorizontalAlignment="Left" Height="75" Margin="93,183,0,0" VerticalAlignment="Top" Width="78"/>
+            <Button x:Name="Button8" Content="6" HorizontalAlignment="Left" Height="75" Margin="176,182,0,0" VerticalAlignment="Top" Width="78"/>
+            <Button x:Name="ButtonUmn" Content="*" HorizontalAlignment="Left" Height="75" Margin="294,183,0,0" VerticalAlignment="Top" Width="78"/>
+            <Button x:Name="ButtonDel" Content="/" HorizontalAlignment="Left" Height="75" Margin="377,183,0,0" VerticalAlignment="Top" Width="78"/>
+            <Button x:Name="Button7" Content="7" HorizontalAlignment="Left" Height="75" Margin="10,263,0,0" VerticalAlignment="Top" Width="78"/>
+            <Button x:Name="Button6" Content="8" HorizontalAlignment="Left" Height="75" Margin="93,262,0,0" VerticalAlignment="Top" Width="78"/>
+            <Button x:Name="Button9" Content="9" HorizontalAlignment="Left" Height="75" Margin="176,262,0,0" VerticalAlignment="Top" Width="78"/>
+            <Button x:Name="ButtonStep" Content="^" HorizontalAlignment="Left" Height="75" Margin="294,263,0,0" VerticalAlignment="Top" Width="78" RenderTransformOrigin="-0.367,0.46"/>
+            <Button x:Name="Button0" Content="0" HorizontalAlignment="Left" Height="75" Margin="93,342,0,0" VerticalAlignment="Top" Width="78"/>
+            <Button x:Name="ButtonResult" Content="=" HorizontalAlignment="Left" Height="75" Margin="377,263,0,0" VerticalAlignment="Top" Width="78"/>
+        </Grid>
+
+    </Grid>
+</Window>

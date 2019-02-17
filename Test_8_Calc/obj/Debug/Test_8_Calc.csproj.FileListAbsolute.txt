@@ -1,0 +1,30 @@
+C:\Users\Nadya\Desktop\Учеба_РИПК\C_sharp\Test_8_Calc\Test_8_Calc\bin\Debug\Test_8_Calc.exe.config
+C:\Users\Nadya\Desktop\Учеба_РИПК\C_sharp\Test_8_Calc\Test_8_Calc\bin\Debug\Test_8_Calc.exe
+C:\Users\Nadya\Desktop\Учеба_РИПК\C_sharp\Test_8_Calc\Test_8_Calc\bin\Debug\Test_8_Calc.pdb
+C:\Users\Nadya\Desktop\Учеба_РИПК\C_sharp\Test_8_Calc\Test_8_Calc\obj\Debug\Test_8_Calc.csprojAssemblyReference.cache
+C:\Users\Nadya\Desktop\Учеба_РИПК\C_sharp\Test_8_Calc\Test_8_Calc\obj\Debug\MainWindow.g.cs
+C:\Users\Nadya\Desktop\Учеба_РИПК\C_sharp\Test_8_Calc\Test_8_Calc\obj\Debug\App.g.cs
+C:\Users\Nadya\Desktop\Учеба_РИПК\C_sharp\Test_8_Calc\Test_8_Calc\obj\Debug\Test_8_Calc_MarkupCompile.cache
+C:\Users\Nadya\Desktop\Учеба_РИПК\C_sharp\Test_8_Calc\Test_8_Calc\obj\Debug\Test_8_Calc_MarkupCompile.lref
+C:\Users\Nadya\Desktop\Учеба_РИПК\C_sharp\Test_8_Calc\Test_8_Calc\obj\Debug\MainWindow.baml
+C:\Users\Nadya\Desktop\Учеба_РИПК\C_sharp\Test_8_Calc\Test_8_Calc\obj\Debug\Test_8_Calc.g.resources
+C:\Users\Nadya\Desktop\Учеба_РИПК\C_sharp\Test_8_Calc\Test_8_Calc\obj\Debug\Test_8_Calc.Properties.Resources.resources
+C:\Users\Nadya\Desktop\Учеба_РИПК\C_sharp\Test_8_Calc\Test_8_Calc\obj\Debug\Test_8_Calc.csproj.GenerateResource.cache
+C:\Users\Nadya\Desktop\Учеба_РИПК\C_sharp\Test_8_Calc\Test_8_Calc\obj\Debug\Test_8_Calc.csproj.CoreCompileInputs.cache
+C:\Users\Nadya\Desktop\Учеба_РИПК\C_sharp\Test_8_Calc\Test_8_Calc\obj\Debug\Test_8_Calc.exe
+C:\Users\Nadya\Desktop\Учеба_РИПК\C_sharp\Test_8_Calc\Test_8_Calc\obj\Debug\Test_8_Calc.pdb
+z:\8162\Попова Надежда\C_sharp\Test_8_Calc\Test_8_Calc\bin\Debug\Test_8_Calc.exe.config
+z:\8162\Попова Надежда\C_sharp\Test_8_Calc\Test_8_Calc\bin\Debug\Test_8_Calc.exe
+z:\8162\Попова Надежда\C_sharp\Test_8_Calc\Test_8_Calc\bin\Debug\Test_8_Calc.pdb
+z:\8162\Попова Надежда\C_sharp\Test_8_Calc\Test_8_Calc\obj\Debug\Test_8_Calc.csprojAssemblyReference.cache
+z:\8162\Попова Надежда\C_sharp\Test_8_Calc\Test_8_Calc\obj\Debug\MainWindow.g.cs
+z:\8162\Попова Надежда\C_sharp\Test_8_Calc\Test_8_Calc\obj\Debug\App.g.cs
+z:\8162\Попова Надежда\C_sharp\Test_8_Calc\Test_8_Calc\obj\Debug\Test_8_Calc_MarkupCompile.cache
+z:\8162\Попова Надежда\C_sharp\Test_8_Calc\Test_8_Calc\obj\Debug\Test_8_Calc_MarkupCompile.lref
+z:\8162\Попова Надежда\C_sharp\Test_8_Calc\Test_8_Calc\obj\Debug\MainWindow.baml
+z:\8162\Попова Надежда\C_sharp\Test_8_Calc\Test_8_Calc\obj\Debug\Test_8_Calc.g.resources
+z:\8162\Попова Надежда\C_sharp\Test_8_Calc\Test_8_Calc\obj\Debug\Test_8_Calc.Properties.Resources.resources
+z:\8162\Попова Надежда\C_sharp\Test_8_Calc\Test_8_Calc\obj\Debug\Test_8_Calc.csproj.GenerateResource.cache
+z:\8162\Попова Надежда\C_sharp\Test_8_Calc\Test_8_Calc\obj\Debug\Test_8_Calc.csproj.CoreCompileInputs.cache
+z:\8162\Попова Надежда\C_sharp\Test_8_Calc\Test_8_Calc\obj\Debug\Test_8_Calc.exe
+z:\8162\Попова Надежда\C_sharp\Test_8_Calc\Test_8_Calc\obj\Debug\Test_8_Calc.pdb
